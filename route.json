@@ -1,0 +1,14 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [ "grok.com", "x.ai", "linux.do", "lmarena.ai","anyrouter.top", "boost.org" ],
+        "outbound": "🚀 节点选择"
+      },
+      {
+        "domain_suffix": [ "gitee.com", "qq.com", "scfypt.com" ],
+        "outbound": "🎯 全球直连"
+      }
+    ]
+  }
+}
