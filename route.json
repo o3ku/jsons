@@ -2,7 +2,7 @@
   "route": {
     "rules": [
       {
-        "domain_suffix": [ "grok.com", "x.ai", "linux.do", "lmarena.ai","anyrouter.top", "boost.org" ],
+        "domain_suffix": [ "grok.com","grokipedia.com","x.ai", "linux.do", "lmarena.ai","anyrouter.top", "boost.org", "deno.dev" ],
         "outbound": "🚀 节点选择"
       },
       {
