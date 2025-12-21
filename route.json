@@ -2,11 +2,11 @@
   "route": {
     "rules": [
       {
-        "domain_suffix": [ "grok.com","grokipedia.com","x.ai", "linux.do", "lmarena.ai","anyrouter.top", "boost.org", "deno.dev" ],
+        "domain_suffix": [ "grok.com","grokipedia.com","x.ai", "linux.do", "lmarena.ai","anyrouter.top", "boost.org", "deno.dev"],
         "outbound": "🚀 节点选择"
       },
       {
-        "domain_suffix": [ "gitee.com", "qq.com", "scfypt.com" ],
+        "domain_suffix": [ "gitee.com", "qq.com", "scfypt.com", "windsurf.com", "codeiumdata.com" ],
         "outbound": "🎯 全球直连"
       }
     ]
