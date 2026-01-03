@@ -6,7 +6,7 @@
         "outbound": "🚀 节点选择"
       },
       {
-        "domain_suffix": [ "apple.com", "gitee.com", "qq.com", "weixinbridge.com" , "scfypt.com", "windsurf.com", "codeiumdata.com", "mumuverse.space", "hcfy.ai", "microsoft.com", "doubao.com", "mumuverse.space"],
+        "domain_suffix": [ "apple.com", "gitee.com", "qq.com", "weixinbridge.com" , "scfypt.com", "windsurf.com", "codeiumdata.com", "mumuverse.space", "hcfy.ai", "windows.com", "office.com", "microsoft.com", "live.com", "outlook.com", "microsoftpersonalcontent.com", "cloudflare-dns.com", "tvfuwu.com", "gitv.tv", "doubao.com", "mumuverse.space"],
         "outbound": "🎯 全球直连"
       }
     ]
